@@ -106,10 +106,6 @@ if _name_ == '_main_':
 ## MobileRobot Movement Image:
 
 ![robo](./img/robomaster.png)
-
-Insert image here
-
-
 <br/>![solution](output1.jpeg)
 <br/>![solution](output2.jpeg)
 <br/>![solution](output3.jpeg)
