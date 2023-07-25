@@ -106,11 +106,11 @@ if _name_ == '_main_':
 ## MobileRobot Movement Image:
 
 ![robo](./img/robomaster.png)
-<br/>![solution](output1.jpeg)
-<br/>![solution](output2.jpeg)
-<br/>![solution](output3.jpeg)
-<br/>
-![solution](output5.jpeg)
+<br/>![solution](output6.jpeg)
+<br/>![solution](output7.jpeg)
+<br/>![solution](output8.jpeg)
+
+
 
 ## MobileRobot Movement Video:
 
